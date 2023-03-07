@@ -1,4 +1,4 @@
-## Hi there 👋, this is Quantum Gladiators web developer team.
+## Hi there 👋, this is Pixel Cyber Ninja web developer team.
 
 Now, We focused on Golang and React to make amazing websites.
 
